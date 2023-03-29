@@ -1,6 +1,6 @@
 
 public class Personas {
 	private String color;
-	private int Pene;
+	private int tel;
 	
 }
